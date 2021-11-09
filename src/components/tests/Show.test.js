@@ -5,16 +5,16 @@ import userEvent from '@testing-library/user-event';
 import Show from './../Show';
 
 const testShow = {
-    //add in approprate test data structure here.
+	//add in approprate test data structure here.
 }
 
-test('renders testShow and no selected Season without errors', ()=>{
+test('renders testShow and no selected Season without errors', () => {
 });
 
 test('renders Loading component when prop show is null', () => {
 });
 
-test('renders same number of options seasons are passed in', ()=>{
+test('renders same number of options seasons are passed in', () => {
 });
 
 test('handleSelect is called when an season is selected', () => {
